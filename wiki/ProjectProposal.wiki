@@ -24,9 +24,17 @@ There are different types of font creation programs.  For my purposes, I have se
     * _example:_ FontForge (http://fontforge.sourceforge.net)
     * _example:_ DoubleType (http://doubletype.org)
 
-
-
+Of these two, the vector manipulation programs are more powerful; and out of this category, FontForge was the most organized, powerful and user friendly program I could find.
 
 == How do I plan to help? ==
 
-[more]
+While FontForge is one of the better programs available for free, there are still some limitations.  The major one that affected me, and other Windows users I'm sure, was that it is a Unix-based program.  There is no version available for Windows.  In order to use FontForge in Windows, one must either install Cygwin, mingw, or andLinux.  The Cygwin installation can be complicated for a user who has no idea what he or she is doing, and Cygwin is a large program.  Mingw, and andLinux are also programs that the average user may not be familiar with as well.
+
+Originally I wanted to help this open source project by working on the issue with installing on Windows, or by fixing bugs, but after more research have decided I do not know enough to be helpful on this aspect and that I would have to take a different approach.
+
+On the FontForge site, George Williams, the creator of FontForge, lists multiple ways in which people who want to help can contribute.  Two of the ways stuck out to me, both having to deal with documentation, and those are the ones I decided to focus on.
+
+My contribution to this project will be to one, help to improve the already existing documentation in English, but my major contribution will be to update the documentation in Spanish.
+
+=== How can documentation, especially translation, really help? ===
+Documentation is an important part of any project, it includes instructions to people who want to help with code, instructions for users, and more.  Without clear documentation people will be unable to use the program, rendering it useless.
