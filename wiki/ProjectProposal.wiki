@@ -22,7 +22,7 @@ There are different types of font creation programs.  For my purposes, I have se
     * _example:_ FontStruct (http://fontstruct.fontshop.com/).
   # *Vector Manipulation Program* - These programs allow you to create more complex fonts using vector manipulation.
     * _example:_ FontForge (http://fontforge.sourceforge.net)
-    * _example:_ DoubleType_ (http://doubletype.org)
+    * _example:_ DoubleType (http://doubletype.org)
 
 
 
