@@ -9,7 +9,7 @@ Solution?  Either creating your own font which you are then free to use as you w
 
 This isn’t a complete solution, however, because most of the programs available for font editing or creation are commercialized and priced anywhere from $50 for a home edition to around $200 dollars.  There are free programs available, but most of them are extremely limited in what they allow the user to do.  Even the best ones still have limitations.
 
-And non-copyright fonts, such as those available through the Open Font Library (http://openfontlibrary.org/) can still be restrictive as they may not have exactly what you are looking for.
+And non-copyright fonts, such as those available through the Open Font Library (http://openfontlibrary.org/) or 1001 Free Fonts (http://www.1001freefonts.com/) can still be restrictive as they may not have exactly what you are looking for.  In addition, it is important to read the 'readMe' files that are attached to some of these fonts.  With the Open Font Library it is not an issue because the goal of the site is to collect completely free fonts.  With other sites, however, such as 1001 Free Fonts, there are conditions attached to some of the fonts.  They are all free for personal use, but some of them require additional fees if the font is to be used commercially.
 
 My goal for this project is to help font creation programs become less restrictive to users.
 
