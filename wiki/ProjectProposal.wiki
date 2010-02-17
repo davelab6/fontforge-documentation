@@ -16,9 +16,8 @@ There must be multiple font creation programs on the web, so why FontForge?
 
 There are different types of font creation programs.  Here is a list of the different types, and some examples of programs:
 
-  # *Online Programs* - These programs allow you to create fonts online without downloading or installing any software.
-
-An example of this is FontStruct (http://fontstruct.fontshop.com/).
+  # *Online Programs* - These programs allow you to create fonts online without downloading or installing any software.  
+    *An example of this is FontStruct (http://fontstruct.fontshop.com/).
 
 Of all the font creation programs on the web (and they are hard to find) I found that FontForge was one of the most popular; it was also less restrictive than some of the other programs in what it allowed the user to do.  Here is a list of some of the available programs, including FontForge, and a short description:
 
