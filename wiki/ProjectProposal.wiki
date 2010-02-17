@@ -9,30 +9,23 @@ Solution?  Either creating your own font which you are then free to use as you w
 
 This isn’t a complete solution, however, because most of the programs available for font editing or creation are commercialized and priced anywhere from $50 for a home edition to around $200 dollars.  There are free programs available, but most of them are extremely limited in what they allow the user to do.  Even the best ones still have limitations.
 
+And non-copyright fonts, such as those available through the Open Font Library (http://openfontlibrary.org/) can still be restrictive as they may not have exactly what you are looking for.
+
 My goal for this project is to help font creation programs become less restrictive to users.
 
 == Why FontForge? ==
 There must be multiple font creation programs on the web, so why FontForge?
 
-There are different types of font creation programs.  Here is a list of the different types, and some examples of programs:
+There are different types of font creation programs.  For my purposes, I have separated the programs into 2 major groups.  Here is a list of the groups, and an example or two of each:
 
   # *Online Programs* - These programs allow you to create fonts online without downloading or installing any software.  
-    *An example of this is FontStruct (http://fontstruct.fontshop.com/).
-
-Of all the font creation programs on the web (and they are hard to find) I found that FontForge was one of the most popular; it was also less restrictive than some of the other programs in what it allowed the user to do.  Here is a list of some of the available programs, including FontForge, and a short description:
-
-  * _FontForge_ (fontforge.sourceforge.net)
-  * _DoubleType_ (doubletype.org)
-  * _
+    * _example:_ FontStruct (http://fontstruct.fontshop.com/).
+  # *Vector Manipulation Program* - These programs allow you to create more complex fonts using vector manipulation.
+    * _example:_ FontForge (fontforge.sourceforge.net)
+    * _example:_ DoubleType_ (doubletype.org)
 
 
 
-
-
-
-
-
-[more]
 
 == How do I plan to help? ==
 
