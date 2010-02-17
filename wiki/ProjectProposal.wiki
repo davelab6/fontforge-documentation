@@ -37,6 +37,7 @@ On the FontForge site, George Williams, the creator of FontForge, lists multiple
 My contribution to this project will be to one, help to improve the already existing documentation in English, but my major contribution will be to update the documentation in Spanish.
 
 *How can documentation, especially translation, really help?*
+
 Documentation is an important part of any project, it includes instructions to people who want to help with code, instructions for users, and more.  Without clear documentation people will be unable to use the program, rendering it useless.
 
 Okay, so now it makes sense how improved English documentation will help, but Spanish?
@@ -48,4 +49,5 @@ The site has already been translated into German and Japanese, and there are man
 As stated in the beginning, I believe that everyone has a right to use their creative abilities without being charged ridiculous fees.  This includes people of non-English speaking origins.
 
 *Tasks & Timeline*
+
 As of now I do not have a set timeline with dates, but there are 22 pages of the online tutorial, and 11 separate pages of the website (some extremely long, and others not so much).  That comes to 33 pages of translation and possibly improved documentation.  Seeing as the project is due in about 8 weeks, I must have at least 4 pages translated/improve documentation a week.
