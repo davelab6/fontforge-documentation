@@ -14,9 +14,10 @@ However, I would like to make all of my work available, not just the finished pr
   # A file containing only the text from the English webpage (.txt file)
   # A file containing the translated Spanish text (.txt file)
     * *NOTE*: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
+  # The HTML code for the Spanish webpage (.txt file)
   # The webpage translated into Spanish (.htm file)
   # The pictures associated with that webpage (a folder titled the same as the Spanish .htm file)
-  # The HTML code for the Spanish webpage (.txt file)
+
 
 *HOW THESE FILES WILL BE AVAILABLE FOR DOWNLOAD*
 
@@ -24,10 +25,10 @@ Instead of having 8 different download options for each page (which would be ext
 
   # TITLE: PAGE(insert number)-ENG
     * Contents: The original website files in English
-    * This includes files 1, and 2 as listed above
+    * This includes files 1 and 2 as listed above
   # TITLE: PAGE(insert number)-TXTFILES
     * Contents: The HTML and text files, in both English and Spanish
-    * This includes files 3, 4 and 5 as listed above
+    * This includes files 3, 4, 5 and 6 as listed above
   # TITLE: PAGE(insert number)-SPAN
     * Contents: The complete set of files for the Spanish page
-    * This includes files 6, 7 and 8 as listed above
+    * This includes files 7 and 8 as listed above
