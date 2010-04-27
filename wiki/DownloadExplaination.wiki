@@ -21,12 +21,12 @@ However, I would like to make all of my work available, not just the finished pr
 
 Instead of having 7 different download options for each page (which would be extremely cluttered), I will divide the files into 3 download options for each page.
 
-  # TITLE: PAGE[insert number]-ENG
+  # TITLE: PAGE(insert number)-ENG
     * Contents: The original website files in English
     * This includes files 1, and 2 as listed above
-  # TITLE: PAGE[insert number]-TXTFILES
+  # TITLE: PAGE(insert number)-TXTFILES
     * Contents: The HTML and text files, in both English and Spanish
     * This includes files 3, 4 and 5 as listed above
-  # TITLE: PAGE[insert number]-SPAN
+  # TITLE: PAGE(insert number)-SPAN
     * Contents: The complete set of files for the Spanish page
     * This includes files 6, and 7 as listed above
