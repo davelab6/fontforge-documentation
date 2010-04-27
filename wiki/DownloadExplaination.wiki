@@ -12,5 +12,5 @@ However, I would like to make all of my work available, not just the finished pr
   # The HTML code for the English webpage, formatted from paragraph form (.txt file)
   # A file containing only the text from the English webpage (.txt file)
   # A file containing the translated Spanish text (.txt file)
-  *NOTE*: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
+*NOTE*: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
   # The webpage translated into Spanish (.htm file)
