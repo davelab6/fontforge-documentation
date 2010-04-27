@@ -21,21 +21,21 @@
   * Page 17 - "The Edit Menu"
   * Page 18 - "The Point Menu"
   * Page 19 - "The Element Menu"
-  * Page 20 -
-  * Page 21 -
-  * Page 22 -
-  * Page 23 -
-  * Page 24 -
-  * Page 25 -
-  * Page 26 -
-  * Page 27 -
-  * Page 28 -
-  * Page 29 -
-  * Page 30 -
-  * Page 31 -
-  * Page 32 -
-  * Page 33 -
-  * Page 34 -
-  * Page 35 -
-  * Page 36 -
-  * Page 37 -
+  * Page 20 - "The Tools Menu"
+  * Page 21 - "The Hints Menu"
+  * Page 22 - "Encoding Menu"
+  * Page 23 - "The View Menu"
+  * Page 24 - "The Metrics Menu"
+  * Page 25 - "The CID Menu"
+  * Page 26 - "The Multiple Master Menu"
+  * Page 27 - "The Window Menu"
+  * Page 28 - "Help Menu"
+  * Page 29 - "Menu Hot Keys"
+  * Page 30 - "Writing Scripts to Change Fonts in FontForge"
+  * Page 31 - "FontForge and TeX"
+  * Page 32 - "Error Recovery"
+  * Page 33 - "X Resources"
+  * Page 34 - "Command Line Arguments"
+  * Page 35 - "Files used by FontForge"
+  * Page 36 - "High Level Description of What Each Source File Contains"
+  * Page 37 - "Spline Font Database"
