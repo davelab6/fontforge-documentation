@@ -6,7 +6,7 @@ I am doing a translation of the online tutorial for FontForge, and since the Fon
 
 However, I would like to make all of my work available, not just the finished product.  In order to do this, I need to explain the process I used to translate the tutorial.
 
-*EACH PAGE WILL HAVE 7 FILES ASSOCIATED WITH IT:*
+*EACH PAGE WILL HAVE 8 FILES ASSOCIATED WITH IT:*
   # The original webpage in English (.htm file)
   # The pictures associated with that webpage (a folder titled the same as the first .htm file)
   # The HTML code for the English webpage (.txt file)
@@ -16,10 +16,11 @@ However, I would like to make all of my work available, not just the finished pr
     * *NOTE*: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
   # The webpage translated into Spanish (.htm file)
   # The pictures associated with that webpage (a folder titled the same as the Spanish .htm file)
+  # The HTML code for the Spanish webpage (.txt file)
 
 *HOW THESE FILES WILL BE AVAILABLE FOR DOWNLOAD*
 
-Instead of having 7 different download options for each page (which would be extremely cluttered), I will divide the files into 3 download options for each page.
+Instead of having 8 different download options for each page (which would be extremely cluttered), I will divide the files into 3 download options for each page.
 
   # TITLE: PAGE(insert number)-ENG
     * Contents: The original website files in English
@@ -29,4 +30,4 @@ Instead of having 7 different download options for each page (which would be ext
     * This includes files 3, 4 and 5 as listed above
   # TITLE: PAGE(insert number)-SPAN
     * Contents: The complete set of files for the Spanish page
-    * This includes files 6, and 7 as listed above
+    * This includes files 6, 7 and 8 as listed above
