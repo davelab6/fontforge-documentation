@@ -1,0 +1,17 @@
+#This page is to explain the way the downloads for my project are set up.
+
+= Introduction =
+
+I am doing a translation of the online tutorial for FontForge, and since the FontForge team will not be able to upload my translation to the actual site until I have completely finished translating the entire site, I will make my current work accessible on the 'Downloads' section of this site.
+
+However, I would like to make all of my work available, not just the finished product.  In order to do this, I need to explain the process I used to translate the tutorial.
+
+= Details =
+
+Each page will have ___ files associated with it:
+  # The original webpage in English (.htm file)
+  # The pictures associated with that webpage (a folder titled the same as the first .htm file)
+  # The HTML code for the English webpage, formatted from paragraph form (.txt file)
+  # A file containing only the text from the English webpage (.txt file)
+  # A file containing the translated Spanish text (.txt file)
+  # The webpage translated into Spanish (.htm file)
