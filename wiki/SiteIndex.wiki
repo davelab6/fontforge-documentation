@@ -2,40 +2,40 @@
 
 = Page Listing and Titles =
 
-* Page 1 - "Steps to creating a font..." 
-* Page 2 - "Creating a Glyph Using Spiro Points"
-* Page 3 - "Importing a Glyph Designed in Some Other Vector Editor"
-* Page 4 - "Tutorial #2"
-* Page 5 - "Tutorial #3"
-* Page 6 - "Tutorial #4"
-* Page 7 - "Tutorial #5"
-* Page 8 - "Tutorial #6"
-* Page 9 - "Tutorial #7"
-* Page 10 - "Tutorial #8"
-* Page 11 - "Special Thoughts for Special Scripts"
-* Page 12 - "Font View"
-* Page 13 - "Outline Glyph View"
-* Page 14 - "Bitmap Glyph View"
-* Page 15 - "The Metrics View"
-* Page 16 - "The File Menu"
-* Page 17 - "The Edit Menu"
-* Page 18 - "The Point Menu"
-* Page 19 - "The Element Menu"
-* Page 20 -
-* Page 21 -
-* Page 22 -
-* Page 23 -
-* Page 24 -
-* Page 25 -
-* Page 26 -
-* Page 27 -
-* Page 28 -
-* Page 29 -
-* Page 30 -
-* Page 31 -
-* Page 32 -
-* Page 33 -
-* Page 34 -
-* Page 35 -
-* Page 36 -
-* Page 37 -
+# Page 1 - "Steps to creating a font..." 
+# Page 2 - "Creating a Glyph Using Spiro Points"
+# Page 3 - "Importing a Glyph Designed in Some Other Vector Editor"
+# Page 4 - "Tutorial #2"
+# Page 5 - "Tutorial #3"
+# Page 6 - "Tutorial #4"
+# Page 7 - "Tutorial #5"
+# Page 8 - "Tutorial #6"
+# Page 9 - "Tutorial #7"
+# Page 10 - "Tutorial #8"
+# Page 11 - "Special Thoughts for Special Scripts"
+# Page 12 - "Font View"
+# Page 13 - "Outline Glyph View"
+# Page 14 - "Bitmap Glyph View"
+# Page 15 - "The Metrics View"
+# Page 16 - "The File Menu"
+# Page 17 - "The Edit Menu"
+# Page 18 - "The Point Menu"
+# Page 19 - "The Element Menu"
+# Page 20 -
+# Page 21 -
+# Page 22 -
+# Page 23 -
+# Page 24 -
+# Page 25 -
+# Page 26 -
+# Page 27 -
+# Page 28 -
+# Page 29 -
+# Page 30 -
+# Page 31 -
+# Page 32 -
+# Page 33 -
+# Page 34 -
+# Page 35 -
+# Page 36 -
+# Page 37 -
