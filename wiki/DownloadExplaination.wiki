@@ -8,7 +8,7 @@ However, I would like to make all of my work available, not just the finished pr
 
 = Details =
 
-Each page will have ___ files associated with it:
+Each page will have 6 files associated with it:
   # The original webpage in English (.htm file)
   # The pictures associated with that webpage (a folder titled the same as the first .htm file)
   # The HTML code for the English webpage, formatted from paragraph form (.txt file)
