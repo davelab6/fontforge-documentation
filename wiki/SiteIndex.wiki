@@ -2,13 +2,13 @@
 
 = Page Listing and Titles =
 
-  *Page 1 - "Steps to creating a font..." 
-  *Page 2 - "Creating a Glyph Using Spiro Points"
-  *Page 3 - "Importing a Glyph Designed in Some Other Vector Editor"
-  *Page 4 - "Tutorial #2"
-  *Page 5 - "Tutorial #3"
-  *Page 6 - "Tutorial #4"
-  *Page 7 - "Tutorial #5"
+  * Page 1 - "Steps to creating a font..." 
+  * Page 2 - "Creating a Glyph Using Spiro Points"
+  * Page 3 - "Importing a Glyph Designed in Some Other Vector Editor"
+  * Page 4 - "Tutorial #2"
+  * Page 5 - "Tutorial #3"
+  * Page 6 - "Tutorial #4"
+  * Page 7 - "Tutorial #5"
 # Page 8 - "Tutorial #6"
 # Page 9 - "Tutorial #7"
 # Page 10 - "Tutorial #8"
