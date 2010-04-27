@@ -1,4 +1,4 @@
-#El prop&oacute;sito de esta
+#El propósito de esta página es simplificar las descargas mediante la descripción de los contenidos de cada página.
 
 === Page Listing and Titles ===
 
