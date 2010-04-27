@@ -6,10 +6,11 @@ I am doing a translation of the online tutorial for FontForge, and since the Fon
 
 However, I would like to make all of my work available, not just the finished product.  In order to do this, I need to explain the process I used to translate the tutorial.
 
-===Each page will have 6 files associated with it:===
+*EACH PAGE WILL HAVE 6 FILE ASSOCIATED WITH IT:*
   # The original webpage in English (.htm file)
   # The pictures associated with that webpage (a folder titled the same as the first .htm file)
-  # The HTML code for the English webpage, formatted from paragraph form (.txt file)
+  # The HTML code for the English webpage (.txt file)
+    * *NOTE*: _This code is reformatted from the paragraph form it is saved as when downloaded from the site._
   # A file containing only the text from the English webpage (.txt file)
   # A file containing the translated Spanish text (.txt file)
     * *NOTE*: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
