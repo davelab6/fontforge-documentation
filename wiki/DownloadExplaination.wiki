@@ -26,12 +26,18 @@ Instead of having 8 different download options for each page (which would be ext
 
 *NOTE*: The original HTML files will not be available for download on this page.  There is only a limited amount of space and I don't have enough for the rest of my project if I upload the English HTML files as well.  However, if you want to view the original file, look at the "SiteIndex_English" file, there will be links to the original page, where you can download the HTML code.
 
-  # TITLE: PAGE(insert number)-ENG
-    * Contents: The original website files in English
-    * This includes files 1 and 2 as listed above
-  # TITLE: PAGE(insert number)-TXTFILES
-    * Contents: The HTML and text files, in both English and Spanish
-    * This includes files 3, 4, 5 and 6 as listed above
-  # TITLE: PAGE(insert number)-SPAN
-    * Contents: The complete set of files for the Spanish page
-    * This includes files 7 and 8 as listed above
+  # TITLE: PAGE(insert number)(insert name) (orig)
+    * Contents: The English HTML code in a text file
+    * This includes file 3 as listed above
+  # TITLE: PAGE(insert number) text only (orig)
+    * Contents: The English text file
+    * This includes file 4 as listed above
+  # TITLE: PAGE(insert number) (insert name) (esp)
+    * Contents: The Spanish HTML code in a text file
+    * This includes file 6
+  # TITLE: PAGE(insert number) text only (esp)
+    * Contents: The Spanish text file
+    * This includes file 5
+  # TITLE: PAGE(insert number)-SPANSITE
+    * Contents: The Spanish .htm files, and associated pictures
+    * This includes files 7, and 8
