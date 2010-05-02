@@ -20,8 +20,11 @@ However, I would like to make all of my work available, not just the finished pr
 
 
 *HOW THESE FILES WILL BE AVAILABLE FOR DOWNLOAD*
+===(RECENTLY CHANGED)===
 
 Instead of having 8 different download options for each page (which would be extremely cluttered), I will divide the files into 3 download options for each page.
+
+*NOTE*: The original HTML files will not be available for download on this page.  There is only a limited amount of space and I don't have enough for the rest of my project if I upload the English HTML files as well.  However, if you want to view the original file, look at the "SiteIndex_English" file, there will be links to the original page, where you can download the HTML code.
 
   # TITLE: PAGE(insert number)-ENG
     * Contents: The original website files in English
