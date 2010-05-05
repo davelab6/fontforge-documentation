@@ -29,9 +29,16 @@ Instead of having 8 different download options for each page (which would be ext
   # TITLE: PAGE(insert number)(insert name) (ORIG)
     * Contents: The English HTML code in a text file
     * This includes file 3 as listed above
-  # TITLE: PAGE(insert number) (insert name) (ESP)
-    * Contents: The Spanish HTML code in a text file
-    * This includes file 6
   # TITLE: PAGE(insert number)-SPANSITE
     * Contents: The Spanish .htm files, and associated pictures
     * This includes files 7, and 8
+
+==_Why did I only upload these files?_==
+_Unfortunately, due to the limited space on Google Code, I was unable to post all of the files.  I tried to and then realized I had run out of space.  So here are a list of the files that are actually uploaded.
+
+The other files that are not uploaded are easily obtained from the files uploaded.
+  * The original webpage in English --> refer to the SiteIndex, it contains links to the original tutorial pages.
+  * The pictures associated with that webpage (a folder titled the same as the first .htm file) --> available when you save the page of the tutorial off the original site
+  * A file containing the original English text --> text is on the original webpage
+  * A file containing the translated Spanish text --> text is on the translated webpages I uploaded
+  * The HTML code for the Spanish webpage --> available for viewing if you switch the Spanish .htm to a text file_
