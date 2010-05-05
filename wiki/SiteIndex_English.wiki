@@ -23,29 +23,56 @@
   * Page 10 - "Tutorial #8"
     * http://fontforge.sourceforge.net/editexample7.html
   * Page 11 - "Special Thoughts for Special Scripts"
+    * http://fontforge.sourceforge.net/scriptnotes.html
   * Page 12 - "Font View"
+    * http://fontforge.sourceforge.net/fontview.html
   * Page 13 - "Outline Glyph View"
+    * http://fontforge.sourceforge.net/fontview.html
   * Page 14 - "Bitmap Glyph View"
+    * http://fontforge.sourceforge.net/bitmapview.html
   * Page 15 - "The Metrics View"
+    * http://fontforge.sourceforge.net/metricsview.html
   * Page 16 - "The File Menu"
+    * http://fontforge.sourceforge.net/metricsview.html
   * Page 17 - "The Edit Menu"
+    * http://fontforge.sourceforge.net/metricsview.html
   * Page 18 - "The Point Menu"
+    * http://fontforge.sourceforge.net/pointmenu.html
   * Page 19 - "The Element Menu"
+    * http://fontforge.sourceforge.net/elementmenu.html
   * Page 20 - "The Tools Menu"
+    * http://fontforge.sourceforge.net/toolsmenu.html
   * Page 21 - "The Hints Menu"
+    * http://fontforge.sourceforge.net/hintsmenu.html
   * Page 22 - "Encoding Menu"
+    * http://fontforge.sourceforge.net/encodingmenu.html
   * Page 23 - "The View Menu"
+    * 
   * Page 24 - "The Metrics Menu"
+    * 
   * Page 25 - "The CID Menu"
+    * 
   * Page 26 - "The Multiple Master Menu"
+    * 
   * Page 27 - "The Window Menu"
+    * 
   * Page 28 - "Help Menu"
+    * 
   * Page 29 - "Menu Hot Keys"
+    * 
   * Page 30 - "Writing Scripts to Change Fonts in FontForge"
+    * 
   * Page 31 - "FontForge and TeX"
+    * 
   * Page 32 - "Error Recovery"
+    * 
   * Page 33 - "X Resources"
+    * 
   * Page 34 - "Command Line Arguments"
+    * 
   * Page 35 - "Files used by FontForge"
+    * 
   * Page 36 - "High Level Description of What Each Source File Contains"
+    * 
   * Page 37 - "Spline Font Database"
+    * 
