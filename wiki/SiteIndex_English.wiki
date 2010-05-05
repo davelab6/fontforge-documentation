@@ -47,32 +47,32 @@
   * Page 22 - "Encoding Menu"
     * http://fontforge.sourceforge.net/encodingmenu.html
   * Page 23 - "The View Menu"
-    * 
+    * http://fontforge.sourceforge.net/viewmenu.html
   * Page 24 - "The Metrics Menu"
-    * 
+    * http://fontforge.sourceforge.net/metricsmenu.html
   * Page 25 - "The CID Menu"
-    * 
+    * http://fontforge.sourceforge.net/cidmenu.html
   * Page 26 - "The Multiple Master Menu"
-    * 
+    * http://fontforge.sourceforge.net/mmmenu.html
   * Page 27 - "The Window Menu"
-    * 
+    * http://fontforge.sourceforge.net/windowmenu.html
   * Page 28 - "Help Menu"
-    * 
+    * http://fontforge.sourceforge.net/helpmenu.html
   * Page 29 - "Menu Hot Keys"
-    * 
+    * http://fontforge.sourceforge.net/HotKeys.html
   * Page 30 - "Writing Scripts to Change Fonts in FontForge"
-    * 
+    * http://fontforge.sourceforge.net/scripting.html
   * Page 31 - "FontForge and TeX"
-    * 
+    * http://fontforge.sourceforge.net/PfaEdit-TeX.html
   * Page 32 - "Error Recovery"
-    * 
+    * http://fontforge.sourceforge.net/errrecovery.html
   * Page 33 - "X Resources"
-    * 
+    * http://fontforge.sourceforge.net/xres.html
   * Page 34 - "Command Line Arguments"
-    * 
+    * http://fontforge.sourceforge.net/cliargs.html
   * Page 35 - "Files used by FontForge"
-    * 
+    * http://fontforge.sourceforge.net/files.html
   * Page 36 - "High Level Description of What Each Source File Contains"
-    * 
+    * http://fontforge.sourceforge.net/src.html
   * Page 37 - "Spline Font Database"
-    * 
+    * http://fontforge.sourceforge.net/sfdformat.html
