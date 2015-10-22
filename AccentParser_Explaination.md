@@ -1,0 +1,11 @@
+#What is the Accent Parser available on the download page?.
+
+Originally, as mentioned in my presentation, I was doing all of the work by hand.  This was extremely time consuming, however, and I fell behind schedule.  During my presentation it was asked if I used any programs to help with the translating or formatting.  This got me to thinking, especially since I was behind schedule.
+
+After the text was translated to Spanish, I had to go through and switch all of the accented letters into the HTML equivalent. (i.e. e accented became &eacute;)  Originally I had been doing this all by hand and it took me awhile.
+
+I began to think of how I could write a program that would go through the text files for me and replace the accented letters with their HTML equivalent.
+
+The code took me a little bit longer to write than I had expected, but with the work I had left over it was definitely worth it.  It made it so much faster.
+
+I wrote the program in Python, and it is available for download if you would like to test it or view the code.

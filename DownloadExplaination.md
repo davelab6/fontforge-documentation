@@ -1,0 +1,44 @@
+#This page is to explain the way the downloads for my project are set up.
+
+## Introduction ##
+
+I am doing a translation of the online tutorial for FontForge, and since the FontForge team will not be able to upload my translation to the actual site until I have completely finished translating the entire site, I will make my current work accessible on the 'Downloads' section of this site.
+
+However, I would like to make all of my work available, not just the finished product.  In order to do this, I need to explain the process I used to translate the tutorial.
+
+**EACH PAGE WILL HAVE 8 FILES ASSOCIATED WITH IT:**
+  1. The original webpage in English (.htm file)
+  1. The pictures associated with that webpage (a folder titled the same as the first .htm file)
+  1. The HTML code for the English webpage (.txt file)
+    * **NOTE**: _This code is reformatted from the paragraph form it is saved as when downloaded from the site._
+  1. A file containing the original English text (.txt)
+  1. A file containing the translated Spanish text (.txt file)
+    * **NOTE**: _The Spanish text is written in HTML code, so accented letters will be written in code form.  (i.e. accented a = &aacute;)_
+  1. The HTML code for the Spanish webpage (.txt file)
+  1. The webpage translated into Spanish (.htm file)
+  1. The pictures associated with that webpage (a folder titled the same as the Spanish .htm file)
+
+
+**HOW THESE FILES WILL BE AVAILABLE FOR DOWNLOAD**
+### (RECENTLY CHANGED) ###
+
+Instead of having 8 different download options for each page (which would be extremely cluttered), I will divide the files into 5 download options for each page.
+
+**NOTE**: The original HTML files will not be available for download on this page.  There is only a limited amount of space and I don't have enough for the rest of my project if I upload the English HTML files as well.  However, if you want to view the original file, look at the "SiteIndex\_English" file, there will be links to the original page, where you can download the HTML code.
+
+  1. TITLE: PAGE(insert number)(insert name) (ORIG)
+    * Contents: The English HTML code in a text file
+    * This includes file 3 as listed above
+  1. TITLE: PAGE(insert number)-SPANSITE
+    * Contents: The Spanish .htm files, and associated pictures
+    * This includes files 7, and 8
+
+## _Why did I only upload these files?_ ##
+_Unfortunately, due to the limited space on Google Code, I was unable to post all of the files.  I tried to and then realized I had run out of space.  So here are a list of the files that are actually uploaded._
+
+_The other files that are not uploaded are easily obtained from the files uploaded._
+  * _The original webpage in English --> refer to the SiteIndex, it contains links to the original tutorial pages._
+  * _The pictures associated with that webpage (a folder titled the same as the first .htm file) --> available when you save the page of the tutorial off the original site_
+  * _The original English text --> text is on the original webpage_
+  * _The translated Spanish text --> text is on the translated webpages I uploaded_
+  * _The HTML code for the Spanish webpage --> available for viewing if you switch the Spanish .htm to a text file_

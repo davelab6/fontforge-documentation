@@ -1,0 +1,51 @@
+## Why font creation? ##
+At first, fonts might seem irrelevant and font creation not worth a second thought.  As a member of a new promotion company, and a manager of a currently underground R&B/Neo-Soul artist, however, fonts play more of a role than one would expect.
+
+I help with promotion for both of these, which includes creating flyers, digitally edited photographs, etc; of course I would need to include text on some of these, such as the group's name, times of events or other important information.  In order to be more artistic, I would prefer to use interesting or eye catching fonts.  Most of the ones that come with Photoshop, or Paint, or whichever program is being used are copyrighted.  This means that in order to use them for commercialization, the user must pay a fee.  For some groups, such as underground artists or start-up companies, unnecessary costs can be a problem.
+
+Solution?  Either creating your own font which you are then free to use as you wish, or finding other copyright free fonts on the web.
+
+This isn’t a complete solution, however, because most of the programs available for font editing or creation are commercialized and priced anywhere from $50 for a home edition to around $200 dollars.  There are free programs available, but most of them are extremely limited in what they allow the user to do.  Even the best ones still have limitations.
+
+And non-copyright fonts, such as those available through the Open Font Library (http://openfontlibrary.org/) or 1001 Free Fonts (http://www.1001freefonts.com/) can still be restrictive as they may not have exactly what you are looking for.  In addition, it is important to read the 'readMe' files that are attached to some of these fonts.  With the Open Font Library it is not an issue because the goal of the site is to collect completely free fonts.  With other sites, however, such as 1001 Free Fonts, there are conditions attached to some of the fonts.  They are all free for personal use, but some of them require additional fees if the font is to be used commercially.
+
+My goal for this project is to help font creation programs become less restrictive to users.
+
+## Why FontForge? ##
+There must be multiple font creation programs on the web, so why FontForge?
+
+There are different types of font creation programs.  For my purposes, I have separated the programs into 2 major groups.  Here is a list of the groups, and an example or two of each:
+
+  1. **Online Programs** - These programs allow you to create fonts online without downloading or installing any software.
+    * _example:_ FontStruct (http://fontstruct.fontshop.com/).
+  1. **Vector Manipulation Program** - These programs allow you to create more complex fonts using vector manipulation.
+    * _example:_ FontForge (http://fontforge.sourceforge.net)
+    * _example:_ DoubleType (http://doubletype.org)
+
+Of these two, the vector manipulation programs are more powerful; and out of this category, FontForge was the most organized, powerful and user friendly program I could find.
+
+## How do I plan to help? ##
+
+While FontForge is one of the better programs available for free, there are still some limitations.  The major one that affected me, and other Windows users I'm sure, was that it is a Unix-based program.  There is no version available for Windows.  In order to use FontForge in Windows, one must either install Cygwin, mingw, or andLinux.  The Cygwin installation can be complicated for a user who has no idea what he or she is doing, and Cygwin is a large program.  Mingw, and andLinux are also programs that the average user may not be familiar with as well.
+
+Originally I wanted to help this open source project by working on the issue with installing on Windows, or by fixing bugs, but after more research have decided I do not know enough to be helpful on this aspect and that I would have to take a different approach.
+
+On the FontForge site, George Williams, the creator of FontForge, lists multiple ways in which people who want to help can contribute.  Two of the ways stuck out to me, both having to deal with documentation, and those are the ones I decided to focus on.
+
+My contribution to this project will be to one, help to improve the already existing documentation in English, but my major contribution will be to update the documentation in Spanish.
+
+**How can documentation, especially translation, really help?**
+
+Documentation is an important part of any project, it includes instructions to people who want to help with code, instructions for users, and more.  Without clear documentation people will be unable to use the program, rendering it useless.
+
+Okay, so now it makes sense how improved English documentation will help, but Spanish?
+
+The goal of this project was to make font creation more available to different users.  Spanish-speaking users are a whole new group that would be able to use this program if not just the tutorial and website were translated, but if the user interface written into the code itself was translated as well.  This would make the program and explanation of the installation and use of the program more user friendly to Spanish speakers.
+
+The site has already been translated into German and Japanese, and there are many other people helping translate the UI into multiple other languages including Polish, Vietnamese, and Chinese.  Spanish translation is something that I can contribute on that aspect, especially since the Spanish UI hasn't been updated since 2003, and the tutorial is currently only in English and Japanese.
+
+As stated in the beginning, I believe that everyone has a right to use their creative abilities without being charged ridiculous fees.  This includes people of non-English speaking origins.
+
+**Tasks & Timeline**
+
+As of now I do not have a set timeline with dates, but there are 22 pages of the online tutorial, and 11 separate pages of the website (some extremely long, and others not so much).  That comes to 33 pages of translation and possibly improved documentation.  Seeing as the project is due in about 8 weeks, I must have at least 4 pages translated/improve documentation a week.
